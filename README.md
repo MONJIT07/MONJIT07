@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Monjit Tamuli
 
 🎓 Electrical Engineering student at **National Institute of Technology Silchar (NIT Silchar)**.
-💻 Interested in **Software Development, Data Analytics, and Cloud Computing**.
+💻 Interested in **Software Development, Data Analytics**.
 
 ---
 
